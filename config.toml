@@ -111,11 +111,11 @@ icon = "fa fa-linkedin"
 weight = 2
 url = "https://www.linkedin.com/in/shubham-sachan-74012058/"
 
-# [[params.social]]
-# name = "Facebook"
-# icon = "fab fa-facebook"
-# weight = 3
-# url = "https://www.facebook.com/shubhamhbti07"
+[[params.social]]
+name = "Facebook"
+icon = "fab fa-facebook"
+weight = 3
+url = "https://www.facebook.com/shubhamhbti07"
 
 # [[params.social]]
 # name = "RSS"
