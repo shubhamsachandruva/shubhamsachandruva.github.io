@@ -1,7 +1,7 @@
 ---
 title: "Perfmon-aws-ec2: Missing Perf Counters/Metrics"
 date: 2021-03-10T17:52:35+05:30
-draft: true
+draft: false
 ---
 
 # How-to-resolve-missing-Perf-Counters-Metrics-from-PerfMon-in-EC2-Windows-AWS
