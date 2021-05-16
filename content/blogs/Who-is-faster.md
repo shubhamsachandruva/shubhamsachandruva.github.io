@@ -1,7 +1,7 @@
 ---
 title: "Who is faster: Asyncio/MultiThreading/MultiProcessing/Sync in Python"
 date: 2021-03-20T17:52:35+05:30
-draft: fasle
+draft: false
 ---
 
 As a curious performance engineer we always want to find out the fastest method and implement/advise the same to get the maximum performance.
