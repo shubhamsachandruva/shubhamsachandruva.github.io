@@ -1,4 +1,4 @@
-![shubham image](/img/shubham_about.jpg)  I am a decade old performance engineer (software professional), part time blogger and a firm believer of ‘Karma’. And always go with the famous proverb:
+I am a decade old performance engineer (software professional), part time blogger and a firm believer of ‘Karma’. And always go with the famous proverb:
 
 
 ### “Nothing Happens By Chance, By Fate. You Create Your Own Fate By Your Actions. That’s Karma”
